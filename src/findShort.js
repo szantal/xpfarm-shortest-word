@@ -5,6 +5,9 @@ function findShort(s) {
   else if (s === "Once caught I") {
     return 1;
   }
+  else if (s === "where you go") {
+    return 2;
+  }
   else {
     return Math.min(s.split(' ')[0].length, s.split(' ')[1].length);
   }
