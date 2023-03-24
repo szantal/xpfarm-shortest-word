@@ -29,7 +29,7 @@ describe('US 3 - Want to find the shortest word of three or more words string ',
   it('"where you go" should return 2', () => {
     expect(findShort("where you go")).toBe(2);
   });
-  it.skip('"nine monkeys" should return 4', () => {
-    expect(findShort("nine monkeys")).toBe(4);
+  it('"Incomprehensibility uncopyRighTable hippopotamus misapprehension underprivilaged unsrupulous" should return 11', () => {
+    expect(findShort("Incomprehensibility uncopyRighTable hippopotamus misapprehension underprivilaged unsrupulous")).toBe(11);
   });
 });
