@@ -36,8 +36,8 @@ As a develeoper I want to find the length of the shortest word from a string of 
 ### US-2: 
 As a develeoper I want to find the length of the shortest word from a string of 2 words so that I can solve this Kata
 
-🚧 Scenario #1: Given string 'one two' When I check the length of the shortest word Then it returns 3
-⚠ Scenario #2: Given string 'go go' When I check the length of the shortest word Then it returns 2
+✅ Scenario #1: Given string 'one two' When I check the length of the shortest word Then it returns 3
+🚧 Scenario #2: Given string 'go go' When I check the length of the shortest word Then it returns 2
 ⚠ Scenario #3: Given string 'nine monkeys' When I check the length of the shortest word Then it returns 4
 
 ### US-3: 
