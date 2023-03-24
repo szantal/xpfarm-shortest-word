@@ -3,12 +3,7 @@ function findShort(s) {
     return s.length;
   } 
   else {
-    if (s.split(' ')[0].length >= s.split(' ')[1].length) {
-      return s.split(' ')[1].length;
-    }
-    else {
-      return s.split(' ')[0].length;
-    }
+    return Math.min(s.split(' ')[0].length, s.split(' ')[1].length);
   }
 }
 

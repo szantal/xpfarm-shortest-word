@@ -25,6 +25,11 @@
   - ✅ Refactor
 
 🚧  US 3
+    - 🚧 UAT 3.1
+
+
+## Pomodoro #2
+🚧  US 3
   - 🚧 UAT 3.1
   - ⚠ UAT 3.2
   - ⚠ UAT 3.3  
