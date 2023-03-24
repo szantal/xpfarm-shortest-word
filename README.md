@@ -25,7 +25,7 @@ String will never be empty and you do not need to account for different data typ
 - 🚧 IN PROGRESS
 - ✅ DONE
 
-### US-1: 
+### ✅ US-1: 
 As a develeoper I want to find the length of the shortest word from a string of 1 word so that I can solve this Kata
 
 ✅ Scenario #1: Given string 'a' When I check the length of the shortest word Then it returns 1
@@ -33,7 +33,7 @@ As a develeoper I want to find the length of the shortest word from a string of 
 ✅ Scenario #3: Given string 'excellent' When I check the length of the shortest word Then it returns 9
 
 
-### US-2: 
+### ✅ US-2: 
 As a develeoper I want to find the length of the shortest word from a string of 2 words so that I can solve this Kata
 
 ✅ Scenario #1: Given string 'one two' When I check the length of the shortest word Then it returns 3
@@ -43,7 +43,5 @@ As a develeoper I want to find the length of the shortest word from a string of 
 ### US-3: 
 As a develeoper I want to find the length of the shortest word from a string of 3 or more words so that I can solve this Kata
 ✅ Scenario #1: Given string 'Once caught I' When I check the length of the shortest word Then it returns 1
-⚠ Scenario #2: Given string 'go go go' When I check the length of the shortest word Then it returns 2
-⚠ Scenario #3: Given string 'eleven small monkeys' When I check the length of the shortest word Then it returns 5
-⚠ Scenario #4: Given string 'Once I Caught a fish alive' When I check the length of the shortest word Then it returns 1
-⚠ Scenario #5: Given string 'Incomprehensibility uncopyRighTable hippopotamus misapprehension underprivilaged unsrupulous' When I check the length of the shortest word Then it returns 11
+🚧 Scenario #2: Given string 'where you go' When I check the length of the shortest word Then it returns 2
+⚠ Scenario #3: Given string 'Incomprehensibility uncopyRighTable hippopotamus misapprehension underprivilaged unsrupulous' When I check the length of the shortest word Then it returns 11
