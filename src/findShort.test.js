@@ -23,7 +23,7 @@ describe('US 2 - Want to find the shortest word of two words string ', () => {
   });
 });
 describe('US 3 - Want to find the shortest word of three or more words string ', () => {
-  it.skip('"Once caught I" should return 1', () => {
+  it('"Once caught I" should return 1', () => {
     expect(findShort("Once caught I")).toBe(1);
   });
   it.skip('"go go" should return 2', () => {
