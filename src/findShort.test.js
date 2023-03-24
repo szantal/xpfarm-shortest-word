@@ -22,3 +22,14 @@ describe('US 2 - Want to find the shortest word of two words string ', () => {
     expect(findShort("nine monkeys")).toBe(4);
   });
 });
+describe('US 3 - Want to find the shortest word of three or more words string ', () => {
+  it('"Once caught I" should return 1', () => {
+    expect(findShort("Once caught I")).toBe(1);
+  });
+  it.skip('"go go" should return 2', () => {
+    expect(findShort("go go")).toBe(2);
+  });
+  it.skip('"nine monkeys" should return 4', () => {
+    expect(findShort("nine monkeys")).toBe(4);
+  });
+});
