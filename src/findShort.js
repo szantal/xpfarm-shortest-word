@@ -1,4 +1,10 @@
 function findShort(s) {
+  /* we started refactoring the code to replace the full existing code
+  let words=s.split(' ');
+  for(let word=0; word < words.length; word++){
+    if (words[wor])
+  }
+  */
   if (s.indexOf(' ') ==  -1) {
     return s.length;
   } 
