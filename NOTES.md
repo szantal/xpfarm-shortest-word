@@ -15,3 +15,16 @@
 
 - 🚧 US 2
   - 🚧 UAT 2.1
+
+## Pomodoro #2
+🚧  US 2
+  - 🚧 UAT 2.1
+  - ⚠ UAT 2.2
+  - ⚠ UAT 2.3  
+  - ⚠ Refactor
+
+⚠  US 3
+  - ⚠ UAT 3.1
+  - ⚠ UAT 3.2
+  - ⚠ UAT 3.3  
+  - ⚠ Refactor
