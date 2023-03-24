@@ -39,5 +39,5 @@
 ## Pomodoro #4
 🚧  US 3
   - ✅ UAT 3.2
-  - 🚧 UAT 3.3  
+  - ✅ UAT 3.3  
   - ⚠ Refactor
