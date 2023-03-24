@@ -29,8 +29,8 @@ String will never be empty and you do not need to account for different data typ
 As a develeoper I want to find the length of the shortest word from a string of 1 word so that I can solve this Kata
 
 ✅ Scenario #1: Given string 'a' When I check the length of the shortest word Then it returns 1
-🚧 Scenario #2: Given string 'and' When I check the length of the shortest word Then it returns 3
-⚠ Scenario #3: Given string 'excellent' When I check the length of the shortest word Then it returns 9
+✅ Scenario #2: Given string 'and' When I check the length of the shortest word Then it returns 3
+🚧 Scenario #3: Given string 'excellent' When I check the length of the shortest word Then it returns 9
 
 
 ### US-2: 

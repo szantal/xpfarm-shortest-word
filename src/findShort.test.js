@@ -7,4 +7,7 @@ describe('US 1 - Want to find the shortest word of one word string ', () => {
   it('"and" should return 3', () => {
     expect(findShort("and")).toBe(3);
   });
+  it('"excellent" should return 9', () => {
+    expect(findShort("excellent")).toBe(9);
+  });
 });
