@@ -1,5 +1,5 @@
 function findShort() {
-  return 'hello';
+  return 1;
 }
 
 module.exports = findShort;
