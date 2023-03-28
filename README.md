@@ -40,7 +40,7 @@ As a develeoper I want to find the length of the shortest word from a string of 
 ✅ Scenario #2: Given string 'go go' When I check the length of the shortest word Then it returns 2
 ✅ Scenario #3: Given string 'nine monkeys' When I check the length of the shortest word Then it returns 4
 
-### US-3: 
+### ✅ US-3: 
 As a develeoper I want to find the length of the shortest word from a string of 3 or more words so that I can solve this Kata
 ✅ Scenario #1: Given string 'Once caught I' When I check the length of the shortest word Then it returns 1
 ✅ Scenario #2: Given string 'where you go' When I check the length of the shortest word Then it returns 2
